@@ -1,0 +1,16 @@
+Create Screen
+2 Players
+each player has a bar
+   bar listens to
+    A,Z : Player 1
+    up,down: Player 2
+
+pong ball
+scores
+
+collision with bar
+collision with wall
+    top, bottom : reflect
+    left,right: game over
+
+movement of pong ball after collision

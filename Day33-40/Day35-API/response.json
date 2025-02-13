@@ -1,0 +1,164 @@
+{
+  "city": {
+    "id": 1880755,
+    "name": "Bright Hill Crescent",
+    "coord": {
+      "lat": 1.3521,
+      "lon": 103.8198
+    },
+    "country": "SG",
+    "population": 0,
+    "timezone": 28800,
+    "sunrise": 1739143018,
+    "sunset": 1739186463
+  },
+  "cnt": 4,
+  "cod": "200",
+  "list": [
+    {
+      "dt": 1739199600,
+      "main": {
+        "temp": 298.95,
+        "feels_like": 299.6,
+        "temp_min": 298.09,
+        "temp_max": 298.95,
+        "pressure": 1012,
+        "sea_level": 1012,
+        "grnd_level": 1011,
+        "humidity": 77,
+        "temp_kf": 0.86
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 75
+      },
+      "wind": {
+        "speed": 6.29,
+        "deg": 13,
+        "gust": 11.37
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2025-02-10 15:00:00"
+    },
+    {
+      "dt": 1739210400,
+      "main": {
+        "temp": 298.53,
+        "feels_like": 299.19,
+        "temp_min": 297.69,
+        "temp_max": 298.53,
+        "pressure": 1012,
+        "sea_level": 1012,
+        "grnd_level": 1010,
+        "humidity": 79,
+        "temp_kf": 0.84
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 77
+      },
+      "wind": {
+        "speed": 6.21,
+        "deg": 17,
+        "gust": 10.67
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2025-02-10 18:00:00"
+    },
+    {
+      "dt": 1739221200,
+      "main": {
+        "temp": 297.96,
+        "feels_like": 298.66,
+        "temp_min": 297.47,
+        "temp_max": 297.96,
+        "pressure": 1011,
+        "sea_level": 1011,
+        "grnd_level": 1009,
+        "humidity": 83,
+        "temp_kf": 0.49
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 76
+      },
+      "wind": {
+        "speed": 5.49,
+        "deg": 33,
+        "gust": 10.08
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2025-02-10 21:00:00"
+    },
+    {
+      "dt": 1739232000,
+      "main": {
+        "temp": 297.41,
+        "feels_like": 298.11,
+        "temp_min": 297.41,
+        "temp_max": 297.41,
+        "pressure": 1012,
+        "sea_level": 1012,
+        "grnd_level": 1011,
+        "humidity": 85,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "clouds": {
+        "all": 61
+      },
+      "wind": {
+        "speed": 4.33,
+        "deg": 32,
+        "gust": 9.05
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2025-02-11 00:00:00"
+    }
+  ],
+  "message": 0
+}

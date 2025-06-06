@@ -1,9 +1,10 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, redirect
 from flask_bootstrap import Bootstrap5
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
 import csv
+from cafeModel import Cafe
 
 '''
 Red underlines? Install the required packages first: 
@@ -23,9 +24,7 @@ app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
 Bootstrap5(app)
 
 
-class CafeForm(FlaskForm):
-    cafe = StringField('Cafe name', validators=[DataRequired()])
-    submit = SubmitField('Submit')
+
 
 # Exercise:
 # add: Location URL, open time, closing time, coffee rating, wifi rating, power outlet rating fields
@@ -42,11 +41,16 @@ def home():
     return render_template("index.html")
 
 
-@app.route('/add')
+@app.route('/add', methods=['GET', 'POST'])
 def add_cafe():
-    form = CafeForm()
+    form = Cafe()
     if form.validate_on_submit():
         print("True")
+        with open('cafe-data.csv','a') as csvfile:
+            line=",".join([form.name.data,form.location.data,form.opening_time.data,form.closing_time.data,form.coffee_rating.data,
+                                    form.wifi_strength_rating.data,form.power_socket_availability.data])
+            csvfile.write(f"\n{line}")
+        return redirect('/cafes')
     # Exercise:
     # Make the form write a new row into cafe-data.csv
     # with   if form.validate_on_submit()

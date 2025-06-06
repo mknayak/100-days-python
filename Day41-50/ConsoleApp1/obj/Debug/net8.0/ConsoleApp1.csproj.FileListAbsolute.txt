@@ -1,0 +1,15 @@
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/manasnayak/PycharmProjects/Git_Repo/100-days-python/Day41-50/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll

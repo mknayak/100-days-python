@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+{% for blog in all_posts: %}
+{% if blog["id"] == 2 %}
+        <h2>{{blog["title"]}}</h2>
+        <p>{{blog["body"]}}</p>
+{% endif %}
+{% endfor %}
 </body>
 </html>
